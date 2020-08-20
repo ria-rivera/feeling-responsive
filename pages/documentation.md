@@ -77,7 +77,7 @@ If you need a subheadline for an article, just define a subheadline in front mat
 
 ### Quotes
 
-Quotes mix it up a little bit, if you write long articles. So use quotes:
+Quotes mix it up a little bit, if you write long articles. So use these quotes:
 
 > Age is an issue of mind over matter. If you don't mind, it doesn't matter.
 <cite>Mark Twain</cite>

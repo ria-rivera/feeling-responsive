@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact page"
+# subheadline: "Wufoo-powered contact forms"
+# teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+If you would like to leave a message, please use this [message template](https://github.com/ria-rivera/portfolio/issues/new?assignees=&labels=&template=contact-form.md&title=).
 
-
- [1]: http://www.wufoo.com/
+{% include alert text='To use the template, you must log into your GitHub account.' %}
